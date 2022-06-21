@@ -1,13 +1,13 @@
 ### Here are the links to my hosted Github pages for all my submitted assignments 👋
 
 
-### Assignment for flex box (Live Preview)
+#### Assignment for flex box (Live Preview)
 ==> https://ifylyd.github.io/flex-box-assignment/
 
-### Assignment for CSS grid (Live Preview)
+## Assignment for CSS grid (Live Preview)
 ==> https://ifylyd.github.io/css-grid-assignment/
 
-### Assignment for registration form (Live Preview)
+# Assignment for registration form (Live Preview)
 ==> https://ifylyd.github.io/registration-form/
 
 
