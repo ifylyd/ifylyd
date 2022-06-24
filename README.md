@@ -15,6 +15,18 @@
 ==> https://ifylyd.github.io/registration-form/
 
 
+
+##### Javascript assignment for print name on screen (Live Preview)
+==> https://ifylyd.github.io/Javascript-Print-Name-On-Screen/
+
+
+
+##### Javascript assignment for calculator (Live Preview)
+==> https://ifylyd.github.io/Javascript-calculator/
+
+
+
+
 <!--
 **ifylyd/ifylyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
