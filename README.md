@@ -1,4 +1,12 @@
-### Here are the links to my hosted Github pages for all my submitted assignments 👋
+### Here are the links to my hosted Github pages for all my completed assignments 👋
+
+
+##### PROJECT: About Us Page (Live Preview)
+==> https://ifylyd.github.io/About-Us-Page---Zuri/
+
+
+##### PROJECT: Email Verification Page (Live Preview)
+==> https://ifylyd.github.io/Email-Verification-Page---Zuri/
 
 
 ##### Assignment for flex box (Live Preview)
