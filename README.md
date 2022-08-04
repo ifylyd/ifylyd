@@ -1,4 +1,4 @@
-### Here are the links to my hosted Github pages for all my completed assignments 👋
+### Here are the links to my hosted Github pages for all my completed assignments and Project👋
 
 ##### PROJECT: Lenovo Brand (Live Preview)
 ==> https://ifylyd.github.io/Lenevo-brands/
