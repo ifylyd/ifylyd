@@ -1,5 +1,9 @@
 ### Here are the links to my hosted Github pages for all my completed assignments and Project👋
 
+##### Assignment: ZURI Landing Page (Live Preview)
+==> https://ifylyd.github.io/ZURI-Landing-Page/
+
+
 ##### PROJECT: Product Page (Live Preview)
 ==> https://ifylyd.github.io/Product-page/
 
