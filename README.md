@@ -18,18 +18,31 @@
 ==> https://github.com/ifylyd/zuri-project-frontend/tree/main/Lenevo%20Brands
 <br><br><br>
 
-##### PROJECT 3: About Us Page (Live Preview)
-==> https://ifylyd.github.io/About-Us-Page---Zuri/
-<br><br>
+#### PROJECT (Task 3): About Us Page
+(Live Preview) ==> https://ifylyd.github.io/About-Us-Page---Zuri/
+<br>
+##### Pull Request and Commits for PROJECT (Task 3)
+==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/4
+<br>
+##### Source Code
+==> https://github.com/ifylyd/zuri-project-frontend/tree/main/About%20Us%20Page
+<br><br><br>
 
-##### PROJECT 4: Email Verification Page (Live Preview)
-==> https://ifylyd.github.io/Email-Verification-Page---Zuri/
-
+#### PROJECT (Task 4): Email Verification Page
+(Live Preview) ==> https://ifylyd.github.io/Email-Verification-Page---Zuri/
+<br>
+##### Pull Request and Commits for PROJECT (Task 4)
+==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/3
+<br>
+##### Source Code
+==> https://github.com/ifylyd/zuri-project-frontend/tree/main/Email%20Verification%20Page
 
 <br><br><br><br><br>
 
 
 ==================== =========== ======
+### All Submitted Assignments
+
 ##### Assignment: ZURI Landing Page (Live Preview)
 ==> https://ifylyd.github.io/ZURI-Landing-Page/
 
