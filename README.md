@@ -8,7 +8,7 @@
 ==> https://github.com/ifylyd/zuri-project-frontend/tree/main/Product%20Page
 <br><br><br>
 
-#### PROJECT (Task 2): Create Lenovo Brand
+### PROJECT (Task 2): Create Lenovo Brand
 (Live Preview) ==> https://ifylyd.github.io/Lenevo-brands/
 <br>
 ##### Pull Request and Commits for PROJECT (Task 2)
