@@ -1,11 +1,10 @@
 ### Here are the links to my hosted Github pages for all my completed assignments and Project👋
 
-##### Assignment: ZURI Landing Page (Live Preview)
-==> https://ifylyd.github.io/ZURI-Landing-Page/
 
-
-##### PROJECT: Product Page (Live Preview)
-==> https://ifylyd.github.io/Product-page/
+#### PROJECT: Create Product Page
+(Live Preview) ==> https://ifylyd.github.io/Product-page/
+##### Pull Request and All Commits 
+==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/12
 
 
 ##### PROJECT: Lenovo Brand (Live Preview)
@@ -18,6 +17,16 @@
 
 ##### PROJECT: Email Verification Page (Live Preview)
 ==> https://ifylyd.github.io/Email-Verification-Page---Zuri/
+
+
+
+===============================================
+===============================================
+
+
+
+##### Assignment: ZURI Landing Page (Live Preview)
+==> https://ifylyd.github.io/ZURI-Landing-Page/
 
 
 ##### Assignment for flex box (Live Preview)
