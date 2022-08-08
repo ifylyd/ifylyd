@@ -1,7 +1,4 @@
-### Here are the links to my hosted Github pages for all my completed assignments and Project👋
-
-
-#### PROJECT: Create Product Page
+#### PROJECT 1: Create Product Page
 (Live Preview) ==> https://ifylyd.github.io/Product-page/
 ##### Pull Request and All Commits 
 ==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/12
