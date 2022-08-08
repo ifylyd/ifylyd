@@ -2,21 +2,23 @@
 (Live Preview) ==> https://ifylyd.github.io/Product-page/
 ##### Pull Request and All Commits 
 ==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/12
+<br><br>
 
-
-##### PROJECT 2: Lenovo Brand (Live Preview)
-==> https://ifylyd.github.io/Lenevo-brands/
-
+##### PROJECT 2: Create Lenovo Brand
+(Live Preview) ==> https://ifylyd.github.io/Lenevo-brands/
+##### Pull Request and All Commits 
+==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/9
+<br><br>
 
 ##### PROJECT 3: About Us Page (Live Preview)
 ==> https://ifylyd.github.io/About-Us-Page---Zuri/
-
+<br><br>
 
 ##### PROJECT 4: Email Verification Page (Live Preview)
 ==> https://ifylyd.github.io/Email-Verification-Page---Zuri/
 
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 
 
