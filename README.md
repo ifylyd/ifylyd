@@ -4,21 +4,19 @@
 ==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/12
 
 
-##### PROJECT: Lenovo Brand (Live Preview)
+##### PROJECT 2: Lenovo Brand (Live Preview)
 ==> https://ifylyd.github.io/Lenevo-brands/
 
 
-##### PROJECT: About Us Page (Live Preview)
+##### PROJECT 3: About Us Page (Live Preview)
 ==> https://ifylyd.github.io/About-Us-Page---Zuri/
 
 
-##### PROJECT: Email Verification Page (Live Preview)
+##### PROJECT 4: Email Verification Page (Live Preview)
 ==> https://ifylyd.github.io/Email-Verification-Page---Zuri/
 
 
-
-===============================================
-===============================================
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
