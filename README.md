@@ -41,8 +41,8 @@
 
 
 ==================== =========== ======
-### All Submitted Assignments
-
+## All Submitted Assignments
+<br><br>
 ##### Assignment: ZURI Landing Page (Live Preview)
 ==> https://ifylyd.github.io/ZURI-Landing-Page/
 
