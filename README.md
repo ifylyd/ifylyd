@@ -43,21 +43,27 @@
 ==================== =========== ======
 ## All Submitted Assignments
 <br>
+
 ##### Assignment: ZURI Landing Page (Live Preview)
 ==> https://ifylyd.github.io/ZURI-Landing-Page/
 <br><br>
+
 ##### Assignment for flex box (Live Preview)
 ==> https://ifylyd.github.io/flex-box-assignment/
 <br><br>
+
 ##### Assignment for CSS grid (Live Preview)
 ==> https://ifylyd.github.io/css-grid-assignment/
 <br><br>
+
 ##### Assignment for registration form (Live Preview)
 ==> https://ifylyd.github.io/registration-form/
 <br><br>
+
 ##### Javascript assignment for print name on screen (Live Preview)
 ==> https://ifylyd.github.io/Javascript-Print-Name-On-Screen/
 <br><br>
+
 ##### Javascript assignment for calculator (Live Preview)
 ==> https://ifylyd.github.io/Javascript-calculator/
 
