@@ -1,14 +1,22 @@
-#### PROJECT 1: Create Product Page
+### PROJECT (Task 1): Create Product Page
 (Live Preview) ==> https://ifylyd.github.io/Product-page/
-##### Pull Request and All Commits 
+<br>
+##### Pull Request and Commits for PROJECT (Task 1)
 ==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/12
-<br><br>
+<br>
+##### Source Code
+==> https://github.com/ifylyd/zuri-project-frontend/tree/main/Product%20Page
+<br><br><br>
 
-##### PROJECT 2: Create Lenovo Brand
+#### PROJECT (Task 2): Create Lenovo Brand
 (Live Preview) ==> https://ifylyd.github.io/Lenevo-brands/
-##### Pull Request and All Commits 
+<br>
+##### Pull Request and Commits for PROJECT (Task 2)
 ==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/9
-<br><br>
+<br>
+##### Source Code
+==> https://github.com/ifylyd/zuri-project-frontend/tree/main/Lenevo%20Brands
+<br><br><br>
 
 ##### PROJECT 3: About Us Page (Live Preview)
 ==> https://ifylyd.github.io/About-Us-Page---Zuri/
@@ -21,7 +29,7 @@
 <br><br><br><br><br>
 
 
-
+==================== =========== ======
 ##### Assignment: ZURI Landing Page (Live Preview)
 ==> https://ifylyd.github.io/ZURI-Landing-Page/
 
