@@ -18,7 +18,7 @@
 ==> https://github.com/ifylyd/zuri-project-frontend/tree/main/Lenevo%20Brands
 <br><br><br>
 
-#### PROJECT (Task 3): About Us Page
+### PROJECT (Task 3): About Us Page
 (Live Preview) ==> https://ifylyd.github.io/About-Us-Page---Zuri/
 <br>
 ##### Pull Request and Commits for PROJECT (Task 3)
@@ -28,7 +28,7 @@
 ==> https://github.com/ifylyd/zuri-project-frontend/tree/main/About%20Us%20Page
 <br><br><br>
 
-#### PROJECT (Task 4): Email Verification Page
+### PROJECT (Task 4): Email Verification Page
 (Live Preview) ==> https://ifylyd.github.io/Email-Verification-Page---Zuri/
 <br>
 ##### Pull Request and Commits for PROJECT (Task 4)
