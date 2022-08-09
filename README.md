@@ -4,7 +4,7 @@
 ##### Pull Request and Commits for PROJECT (Task 1)
 ==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/12
 <br>
-##### Source Code
+##### Source Code for PROJECT (Task 1)
 ==> https://github.com/ifylyd/zuri-project-frontend/tree/main/Product%20Page
 <br><br><br>
 
@@ -14,7 +14,7 @@
 ##### Pull Request and Commits for PROJECT (Task 2)
 ==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/9
 <br>
-##### Source Code
+##### Source Code for PROJECT (Task 2)
 ==> https://github.com/ifylyd/zuri-project-frontend/tree/main/Lenevo%20Brands
 <br><br><br>
 
@@ -24,7 +24,7 @@
 ##### Pull Request and Commits for PROJECT (Task 3)
 ==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/4
 <br>
-##### Source Code
+##### Source Code for PROJECT (Task 3)
 ==> https://github.com/ifylyd/zuri-project-frontend/tree/main/About%20Us%20Page
 <br><br><br>
 
@@ -34,7 +34,7 @@
 ##### Pull Request and Commits for PROJECT (Task 4)
 ==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/3
 <br>
-##### Source Code
+##### Source Code for PROJECT (Task 4)
 ==> https://github.com/ifylyd/zuri-project-frontend/tree/main/Email%20Verification%20Page
 
 <br><br><br><br><br>
