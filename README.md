@@ -36,7 +36,22 @@
 <br>
 ##### Source Code for PROJECT (Task 4)
 ==> https://github.com/ifylyd/zuri-project-frontend/tree/main/Email%20Verification%20Page
+<br><br><br>
 
+### PROJECT (Task 5): Documentation Pages
+(Live Preview for all pages) 
+==>  https://ifylyd.github.io/Documentation-intro/ <br>
+==>  https://ifylyd.github.io/Documentation-user-guide/ <br>
+==>  https://ifylyd.github.io/Documentation-shop-smart/ <br>
+==>  https://ifylyd.github.io/Documentation-user/ <br>
+==>  https://ifylyd.github.io/Documentation-Price-alert/ <br>
+==>  https://ifylyd.github.io/Documentation-merchant/ <br>
+==>  https://ifylyd.github.io/Documentation-api/ <br>
+##### Pull Request and Commits for PROJECT (Task 5)
+==> https://github.com/Dev-180Memes/zuri-project-frontend/pull/24
+<br>
+##### Source Code for PROJECT (Task 5)
+==> https://github.com/Dev-180Memes/zuri-project-frontend
 <br><br><br><br><br>
 
 
